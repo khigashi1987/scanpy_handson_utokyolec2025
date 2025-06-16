@@ -1,1 +1,1 @@
-# khigashi1987-scanpy_handson_utokyolec2025
+scanpy_handson_utokyolec2025
